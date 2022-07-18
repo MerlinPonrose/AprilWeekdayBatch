@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31697" started-at="2022-07-14T04:16:12Z" finished-at="2022-07-14T04:16:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31697" started-at="2022-07-14T04:16:12Z" finished-at="2022-07-14T04:16:44Z">
+      <class name="com.datadriver.test.TestDemoSite">
+        <test-method status="PASS" signature="createReport()[pri:0, instance:com.datadriver.test.TestDemoSite@3cb1ffe6]" name="createReport" is-config="true" duration-ms="165" started-at="2022-07-14T04:16:12Z" finished-at="2022-07-14T04:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReport -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:com.datadriver.test.TestDemoSite@3cb1ffe6]" name="launchbrowser" is-config="true" duration-ms="8415" started-at="2022-07-14T04:16:13Z" finished-at="2022-07-14T04:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="testsite()[pri:0, instance:com.datadriver.test.TestDemoSite@3cb1ffe6]" name="testsite" duration-ms="21798" started-at="2022-07-14T04:16:21Z" finished-at="2022-07-14T04:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsite -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.datadriver.test.TestDemoSite@3cb1ffe6]" name="endReport" is-config="true" duration-ms="1288" started-at="2022-07-14T04:16:43Z" finished-at="2022-07-14T04:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.datadriver.test.TestDemoSite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
